@@ -45,7 +45,7 @@ VID_0002.mp4.json
 ## Структура проекта
 
 ```text
-.
+
 ├── update_dates.py
 └── process_photos.bat
 ```
